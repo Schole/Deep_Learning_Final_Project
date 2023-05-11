@@ -1,0 +1,6 @@
+Number of parameters: 
+26441
+Test accuracy: 
+14.020000457763672
+Prune ratio: 
+0.5715003403234693

@@ -1,0 +1,6 @@
+Number of parameters: 
+14186
+Test accuracy: 
+11.4399995803833
+Prune ratio: 
+0.7701033935111659
